@@ -5,6 +5,7 @@ The aim of this project is to develop an **Purelly Reactive Agent** to provide t
 Pac-Man is a classic, an non-deterministic game, and rather difficult for most human players. As far as we know, nobody really knows how hard it is to develop an AI player for the game.
 You can learn more here about [competition](http://www.pacman-vs-ghosts.net/) 
 
+![Screenshoot](https://cloud.githubusercontent.com/assets/6472330/7148760/09aaa23c-e2fe-11e4-8fc2-7daa28a3800f.PNG "Reactive Agent")
 
 
 
