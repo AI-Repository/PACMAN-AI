@@ -29,6 +29,7 @@ public class Game extends Applet implements Constants {
 	AgentInterface agentController;
 	GhostTeamController ghostTeam;
 	JEasyFrame frame;
+	private static long waitingTime = 0;
 
 	public Game() {
 	}
@@ -111,9 +112,8 @@ public class Game extends Applet implements Constants {
 		Game game = new Game(gs, gsv, agentController, ghostTeam);
 		game.frame = fr;
 		
-		// 1000 milliseconds is one second.
 		try {
-			Thread.sleep(5000); 
+			Thread.sleep(waitingTime); 
 		} catch (InterruptedException ex) {
 			Thread.currentThread().interrupt();
 		}
