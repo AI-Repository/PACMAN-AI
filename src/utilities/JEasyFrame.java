@@ -41,7 +41,8 @@ public class JEasyFrame extends JFrame {
 
     public JEasyFrame fullScreen() {
         // method is buggy
-        Dimension screen = Toolkit.getDefaultToolkit().getScreenSize();
+        @SuppressWarnings("unused")
+		Dimension screen = Toolkit.getDefaultToolkit().getScreenSize();
         // reshape( 0, 0, screen.width, screen.height );
         super.setState(Frame.MAXIMIZED_BOTH);
         return this;

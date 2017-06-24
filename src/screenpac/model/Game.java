@@ -42,6 +42,7 @@ public class Game extends Applet implements Constants {
 		ghostTeam = new LegacyTeam();
 		ghostTeam = new PincerTeam();
 		agent = new ReactiveController();
+
 		if (visual) {
 			try {
 				runVisual(agent, ghostTeam);
@@ -65,6 +66,7 @@ public class Game extends Applet implements Constants {
 		ghostTeam = new PincerTeam();
 
 		agent = new ReactiveController();
+
 		if (visual) {
 			runVisual(agent, ghostTeam);
 		} else {
@@ -72,8 +74,7 @@ public class Game extends Applet implements Constants {
 		}
 	}
 
-	public static void runDark(AgentInterface agentController,
-			GhostTeamController ghostTeam) throws Exception {
+	public static void runDark(AgentInterface agentController, GhostTeamController ghostTeam) throws Exception {
 		Maze maze = new Maze();
 		maze.processOldMaze(MazeOne.getMaze());
 		GameState gs = new GameState(maze);
@@ -86,15 +87,14 @@ public class Game extends Applet implements Constants {
 			game.gs.reset();
 			game.run();
 			ss.add(game.gs.score);
-//			System.out.println("Final score: " + game.gs.score + ", ticks = "
-//					+ game.gs.gameTick);
+			// System.out.println("Final score: " + game.gs.score + ", ticks = "
+			// + game.gs.gameTick);
 		}
-//		System.out.println(t);
-//		System.out.println(ss);
+		// System.out.println(t);
+		// System.out.println(ss);
 	}
 
-	public static void runVisual(AgentInterface agentController,
-			GhostTeamController ghostTeam) throws Exception {
+	public static void runVisual(AgentInterface agentController, GhostTeamController ghostTeam) throws Exception {
 		GameState gs = new GameState();
 		gs.nextLevel();
 
@@ -110,16 +110,23 @@ public class Game extends Applet implements Constants {
 		}
 		Game game = new Game(gs, gsv, agentController, ghostTeam);
 		game.frame = fr;
+		
+		// 1000 milliseconds is one second.
+		try {
+			Thread.sleep(5000); 
+		} catch (InterruptedException ex) {
+			Thread.currentThread().interrupt();
+		}
+		
 		game.run();
 
-//		System.out.println("Final score: " + game.gs.score);
+		// System.out.println("Final score: " + game.gs.score);
 	}
 
 	public void run() throws Exception {
 		while (!this.gs.terminal()) {
 			cycle();
 		}
-//		System.out.println("nLives left: " + this.gs.nLivesRemaining);
 	}
 
 	public void run(int n) throws Exception {
@@ -130,8 +137,7 @@ public class Game extends Applet implements Constants {
 	}
 
 	public void cycle() throws Exception {
-		this.gs.next(this.agentController.action(this.gs),
-				this.ghostTeam.getActions(this.gs));
+		this.gs.next(this.agentController.action(this.gs), this.ghostTeam.getActions(this.gs));
 		if (this.gsv != null) {
 			this.gsv.repaint();
 			if (this.frame != null) {
@@ -141,8 +147,7 @@ public class Game extends Applet implements Constants {
 		}
 	}
 
-	public Game(GameState gs, GameStateView gsv,
-			AgentInterface agentController, GhostTeamController ghostTeam) {
+	public Game(GameState gs, GameStateView gsv, AgentInterface agentController, GhostTeamController ghostTeam) {
 		this.gs = gs;
 		this.gsv = gsv;
 		this.agentController = agentController;
