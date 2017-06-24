@@ -11,9 +11,6 @@ You can learn more here about [competition](http://www.pacman-vs-ghosts.net/)
   <img src="https://cloud.githubusercontent.com/assets/6472330/7148760/09aaa23c-e2fe-11e4-8fc2-7daa28a3800f.PNG" />
 </p>
 
-<p align="center">You can download the game <a href="https://github.com/IA-Repository/PACMAN-Reactive-Agents/blob/master/pacman.jar?raw=true" > here </a>
-</p>
-
 <p> Clone the repo </p>
 <p> Within eclipse or other IDE: </p>
 <ul>
