@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/games/pacman/features
+END
+NodeScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/games/pacman/features/NodeScore.java
+END
+FeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/games/pacman/features/FeatureExtractor.java
+END
+NodeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/games/pacman/features/NodeEvaluator.java
+END
+SparseFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/games/pacman/features/SparseFeatures.java
+END
+StandardFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/games/pacman/features/StandardFeatures.java
+END
+DifferenceFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/games/pacman/features/DifferenceFeatures.java
+END
+YScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/games/pacman/features/YScore.java
+END
+DirectionalScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/games/pacman/features/DirectionalScore.java
+END

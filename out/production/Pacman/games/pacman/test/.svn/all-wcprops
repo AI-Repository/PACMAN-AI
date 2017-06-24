@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/games/pacman/test
+END
+SimpleEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/games/pacman/test/SimpleEvaluator.java
+END
+ButtonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/games/pacman/test/ButtonTest.java
+END
+VisualTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/games/pacman/test/VisualTest.java
+END

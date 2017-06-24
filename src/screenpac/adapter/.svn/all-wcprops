@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/screenpac/adapter
+END
+GhostAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/screenpac/adapter/GhostAdapter.java
+END
+GhostProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/screenpac/adapter/GhostProxy.java
+END
+OldMazeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/screenpac/adapter/OldMazeWrapper.java
+END
+LegacyGameWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/screenpac/adapter/LegacyGameWrapper.java
+END
+WrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/screenpac/adapter/WrapperTest.java
+END
+ControllerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/screenpac/adapter/ControllerAdapter.java
+END

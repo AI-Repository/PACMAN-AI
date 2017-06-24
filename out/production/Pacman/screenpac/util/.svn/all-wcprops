@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/screenpac/util
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/screenpac/util/ImageLoader.java
+END
+ColorLUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/screenpac/util/ColorLUT.java
+END
+ChamferDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/screenpac/util/ChamferDistance.java
+END
+ChamferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/screenpac/util/ChamferTest.java
+END
+IntRamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/screenpac/util/IntRamp.java
+END

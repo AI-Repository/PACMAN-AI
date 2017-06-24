@@ -1,0 +1,73 @@
+10
+
+dir
+9
+https://ms-pacman.googlecode.com/svn/trunk/src/screenpac
+https://ms-pacman.googlecode.com/svn
+
+
+
+2010-07-21T00:11:33.364562Z
+9
+drobles
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ad8edc55-65a3-4533-941b-9133028ea19c
+
+adapter
+dir
+
+control
+dir
+
+controllers
+dir
+
+extract
+dir
+
+features
+dir
+
+ghosts
+dir
+
+grid
+dir
+
+log
+dir
+
+model
+dir
+
+old
+dir
+
+player
+dir
+
+remote
+dir
+
+sound
+dir
+
+test
+dir
+
+util
+dir
+

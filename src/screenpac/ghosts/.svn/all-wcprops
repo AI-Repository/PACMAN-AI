@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts
+END
+RandScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/RandScore.java
+END
+PathScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/PathScore.java
+END
+AimPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/AimPoint.java
+END
+GhostTeamController.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/GhostTeamController.java
+END
+PincerTeam.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/PincerTeam.java
+END
+LegacyTeam.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/LegacyTeam.java
+END
+EuclideanScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/EuclideanScore.java
+END
+ManhattanScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/ManhattanScore.java
+END
+RandTeam.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/screenpac/ghosts/RandTeam.java
+END

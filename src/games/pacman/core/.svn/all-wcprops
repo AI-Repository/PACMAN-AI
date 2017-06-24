@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/games/pacman/core
+END
+Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/games/pacman/core/Evaluator.java
+END
+SinglePixel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/games/pacman/core/SinglePixel.java
+END
+GameData.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/games/pacman/core/GameData.java
+END
+GameFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/games/pacman/core/GameFrame.java
+END
+PacMan.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/games/pacman/core/PacMan.java
+END
+GameInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/games/pacman/core/GameInterface.java
+END
+GameModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/games/pacman/core/GameModel.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/games/pacman/core/Agent.java
+END
+FullGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/games/pacman/core/FullGame.java
+END

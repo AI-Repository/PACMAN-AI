@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost
+END
+Ghost.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/Ghost.java
+END
+RandomScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/RandomScore.java
+END
+PathScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/PathScore.java
+END
+GhostController.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/GhostController.java
+END
+NodeSeekerGhost.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/NodeSeekerGhost.java
+END
+EuclideanScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/EuclideanScore.java
+END
+OldGhostController.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/OldGhostController.java
+END
+ManhattanScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/ManhattanScore.java
+END
+GhostShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/games/pacman/ghost/GhostShell.java
+END

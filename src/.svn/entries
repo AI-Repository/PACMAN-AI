@@ -1,0 +1,46 @@
+10
+
+dir
+9
+https://ms-pacman.googlecode.com/svn/trunk/src
+https://ms-pacman.googlecode.com/svn
+
+
+
+2010-07-21T00:11:33.364562Z
+9
+drobles
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ad8edc55-65a3-4533-941b-9133028ea19c
+
+bits
+dir
+
+games
+dir
+
+neural
+dir
+
+screenpac
+dir
+
+utilities
+dir
+
+wox
+dir
+
