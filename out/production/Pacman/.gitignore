@@ -1,8 +1,5 @@
 /.svn/
 /bits/
-/games/
-/neural/
-/screenpac/
 /blinky-down-1.png
 /blinky-down-2.png
 /blinky-left-1.png
@@ -24,6 +21,7 @@
 /edible-ghost-blink-2.png
 /extra lives.wav
 /extraLife.wav
+/games/
 /inky-down-1.png
 /inky-down-2.png
 /inky-left-1.png
@@ -51,6 +49,7 @@
 /mspacman-up-closed.png
 /mspacman-up-normal.png
 /mspacman-up-open.png
+/neural/
 /opening song.wav
 /pac man dies.wav
 /pacman.wav
@@ -64,6 +63,7 @@
 /pinky-up-1.png
 /pinky-up-2.png
 /readme1st.txt
+/screenpac/
 /siren.wav
 /sue-down-1.png
 /sue-down-2.png
