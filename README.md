@@ -8,7 +8,7 @@ Pac-Man is a classic, an non-deterministic game, and rather difficult for most h
 You can learn more here about [competition](http://www.pacman-vs-ghosts.net/) 
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/6472330/7148760/09aaa23c-e2fe-11e4-8fc2-7daa28a3800f.PNG" />
+  <a href="https://www.youtube.com/watch?v=PzN0Sk_6BwI"><img src="https://cloud.githubusercontent.com/assets/6472330/7148760/09aaa23c-e2fe-11e4-8fc2-7daa28a3800f.PNG" alt="PACMAN"></a>
 </p>
 
 <p> Clone the repo </p>
