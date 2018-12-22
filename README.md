@@ -18,4 +18,4 @@ You can learn more here about [competition](http://www.pacman-vs-ghosts.net/)
   <li>Existing projects into Workspace</li>
   <li>Select root directory > Browse > "select the repo unziped"</li>
 </ul>
-<p>Whitin the "games.pacman.controller" package its the AI controllers and the ReactiveController.java class</p>
+<p>Package "games.pacman.controller", ReactiveController.java class</p>
